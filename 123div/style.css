@@ -1,0 +1,63 @@
+body {
+    width: 210px;
+}
+
+.d1, .d2, .d3 {
+    font-family: Ultra, serif;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(240,242,245);
+    margin: 10px;
+    float: left;
+    font-size: 42px;
+    text-align: center;
+    
+}
+
+#d132 .d2 {
+    float: right;
+}
+#d213 .d1 {
+    margin-left: 80px;
+}
+#d213 .d2 {
+    margin-left: -130px;
+}
+
+#d231 .d1 {
+    float: right;
+}
+
+#d312 .d2 {
+    float: right;
+}
+
+#d312 .d1 {
+    margin-left: 80px;
+}
+
+#d312 .d3 {
+    margin-left: -130px;
+}
+
+#d321 .d1 {
+    float: right;
+}
+
+#d321 .d2 {
+    margin-left: 80px;
+}
+
+#d321 .d3 {
+    margin-left: -130px;
+}
+
+
+
+
+
+
+
+
+
+
