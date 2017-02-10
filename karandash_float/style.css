@@ -1,0 +1,23 @@
+#main {
+    background: url(assets/img/kletka.png) repeat;
+    width: 100vw;
+    height: 500px;
+}
+
+
+
+#head {
+    background: url(assets/img/khead.png);
+    width: 89px;
+    height: 77px;
+    float: left;
+}
+
+#body {
+    background: url(assets/img/kbody.png) repeat-x;
+    width: calc(100vw - 89px);
+    height: 77px;
+    float:left;
+    
+    
+}
